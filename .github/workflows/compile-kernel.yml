@@ -72,7 +72,7 @@ on:
           - -yourname
 
 env:
-  TZ: America/New_York
+  TZ: Aisa/Shanghai
 
 jobs:
   build:
